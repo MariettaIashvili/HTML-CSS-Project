@@ -202,11 +202,11 @@ h5 {
 
 }
 .chamotvla {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     margin-bottom: 40px;
     margin-left: 100px;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 
 }
 .div7 { 
@@ -546,6 +546,10 @@ footer {
 }
  /* responsive */
 @media ( max-width: 480px) {
+    .p2{
+        margin-left: 0;
+    }
+    .div10
     header nav {
         display: none;
     }
@@ -560,6 +564,9 @@ footer {
     .div2 h1 {
         font-size: 15px;
     }
+    .didi {
+        width: 250px;
+    }
     .div2 p {
         font-size: 7px;
         margin-left: 0;
@@ -571,7 +578,7 @@ footer {
         width: 80%;
         margin-top: 50px;
         height: 50px;
-}
+    }
     .box2{
         width: 80px;
     }
@@ -592,15 +599,25 @@ footer {
     .footerbox1 {
         margin-bottom: 20px;
     }
+    footer {
+        width: 100%;
+    }
+    .ul {
+        font-size: 8px;
+    }
+    .ul1{
+        display: none;
+    }
     .p2 {
-        width: 100%;  
+        width: 100%;
+         
       }
       .chamotvla {
-          width: 100%;
+          width: 30%;
       }
       .div7, .div8, .div9, .div10 {
-          width: 100%;
-          margin: 0;
+          
+          margin-right: 0;
       }
       .div4, .div5, .div6 {
           margin-top: 50px;
