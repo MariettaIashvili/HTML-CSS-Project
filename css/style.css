@@ -1,0 +1,619 @@
+.conteineri {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+}
+header {
+   display: flex;
+   justify-content: space-between;
+}
+.div1 {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.p1 {
+    margin-left: 10px;
+    margin-top: 12px;
+    font-size: 20px;
+    color: #4468E2;
+}
+.poto1 {
+    margin-top: 7px;
+    width: 20px;
+    height: 30px;
+}
+.ul1{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.home {
+    color: #1C4961;
+    font-size: 22px;
+}
+li{
+    padding-left: 20px;
+    width: 90px;
+    margin-top: 12px;
+    color: #1C4961;
+    font-size: 22px;
+}
+.button1{
+    border: none;
+    background-color: #4468E2;
+    color: #FFFFFF;
+    margin-top: 10px;
+    font-size: 19px;
+    border-radius: 17px;
+}
+.seqcia {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+.seqcia img {
+    margin-top: 20px;
+    width: 100%
+}
+.div2 {
+    position: absolute;
+    width: 100%;
+}
+h1 {
+   display: flex;
+   justify-content: center;
+   font-size: 50px;
+   color: #FFFFFF;
+   margin-bottom: 20px;
+}
+.box {
+    position: absolute;
+   display: flex;
+   justify-content: center;
+   margin-top:  250px;
+   align-items: center;
+   border-radius: 12px;
+   padding-right: 5px;
+   background-color: rgb(255, 255, 255,0.5);
+   /* flex-wrap: wrap; */
+
+}
+.box img {
+    width: 10px;
+    height: 10px;
+}
+input {
+    border: none;
+}
+.boxp {
+    padding-top: 26px;
+
+}
+.oooo{
+    margin-top: 0;
+}
+.box1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+    padding-bottom: 32px;
+    flex-wrap: wrap;
+
+}
+.box1 div {
+    margin-bottom: 5px;
+}
+.button2{
+   background-color:#4468E2;
+   color: #FFFFFF;
+   font-size: 21px;
+   border: none;
+   padding: 10px;
+   border-radius: 18px;
+    
+}
+
+.p2 {
+    display: flex;
+    justify-content: center;
+    width: 522px;
+    font-size: 15px;
+    color: #FFFFFF;
+    flex-wrap: wrap;
+    margin-left: 390px;
+
+}
+
+.seqcia2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+.one {
+    margin-right: 20px;
+}
+.two {
+    margin-right: 20px;
+}
+h2 {
+    color: black;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.p3 {
+    color: #000000;
+    font-size: 16px;
+    margin-top: 10px;
+}
+h3 {
+    color: black;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.p4 {
+    color: #000000;
+    font-size: 16px;
+    margin-top: 10px;
+}
+h4 {
+    color: black;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.p5 {
+    color: #000000;
+    font-size: 16px;
+    margin-top: 10px;
+}
+h5 {
+    color: black;
+    font-size: 20px;
+    margin-top: 10px;
+} 
+.p6 {
+    color: #000000;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.seqcia3 {
+    width: 100%;
+    display: flex;   
+    justify-content: space-center;
+    margin-top: 110px;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.satauri {
+    margin-bottom: 40px;
+    font-size: 25px;
+    color: #000000;
+
+}
+.chamotvla {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    flex-wrap: wrap;
+
+}
+.div7 { 
+    margin-right: 150px;
+}
+.div8 {
+    margin-right: 150px;
+}
+.div9 {
+    margin-right: 80px;
+}
+.pirveli {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.meore {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 70px;
+}
+.singapuro {
+    max-width: 302px;
+    width: 100%;
+}
+.tailandi {
+    max-width: 302px;
+    width: 100%;
+}
+.paris {
+    max-width: 302px;
+    width: 100%;
+}
+.zealand {
+    max-width: 302px;
+    width: 100%;
+}
+.bora {
+    max-width: 302px;
+    width: 100%;
+}
+.london {
+    max-width: 302px;
+    width: 100%;
+}
+.erti {
+    font-size: 25px;
+    color: #163235;
+}
+.ori {
+    font-size: 15px;
+    color: #163235;
+    margin-top: 10px;
+}
+.evro {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.gaertianeba {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.night {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.sami {
+    font-size: 25px;
+    color: #163235;
+}
+.otxi {
+    font-size: 15px;
+    color: #163235;
+    margin-top: 10px;
+}
+.eqvsi {
+    font-size: 25px;
+    color: #163235;
+}
+.shvidi {
+    font-size: 15px;
+    color: #163235;
+    margin-top: 10px;
+}
+.cxra {
+    font-size: 25px;
+    color: #163235;
+}
+.ati {
+    font-size: 15px;
+    color: #163235;
+    margin-top: 10px;
+}
+.tormeti {
+    font-size: 25px;
+    color: #163235;
+}
+.cameti {
+    font-size: 15px;
+    color: #163235;
+    margin-top: 10px;
+}
+.txutmeti {
+    font-size: 25px;
+    color: #163235;
+}
+.teqsvmeti {
+    font-size: 15px;
+    color: #163235;
+    margin-top: 10px;
+}
+.seqcia4 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+.zuka {
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+.teqsti9 {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    margin-top: 210px;
+    margin-right: 15px;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.saerto1 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.saerto1 img {
+    width: 100%;
+    height: 100%;
+}
+.saerto2 {
+    width: 100%;
+}
+.saerto2 img {
+    width: 100%;
+}
+.saerto {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.saerto3 {
+    width: 100%;
+}
+.saerto3 img {
+    width: 100%;
+}
+.saertoebi {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.saerto2 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+} 
+.teqsti10 {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    margin-top: 80px;
+    margin-left: 30px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.teqsti11 {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    margin-top: 110px;
+    margin-left: 30px;
+    font-size: 23px;
+    color: #FFFFFF;
+    
+}
+.saerto3 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+.seqcia5 {
+    width: 100%;
+}
+.clash {
+        display: flex;
+    justify-content: center;
+    margin-top: 143px;
+    font-size: 40px;
+    color: #000000;
+}
+.clasdiv {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 83px;
+    flex-wrap: wrap;
+}
+.clasdiv2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.clasdivp2 {
+    margin-right: 220px;
+    margin-top: 20px;
+}
+.clasdiv6 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.clasdivp7 {
+     margin-right: 220px;
+    margin-top: 20px;
+}
+.clasdivp {
+    font-size: 16px;
+    color: #000000;
+}
+.clasdiv5 {
+    font-size: 16px;
+    color: #000000;
+
+}
+.prchxili {
+    display: flex;
+
+}
+.clasdiv1 {
+    display: flex;
+    flex-direction: column;
+}
+.boxspan {
+    display: flex;
+    justify-content: space-between;
+
+}
+.prchxili img {
+    height: 42px;
+    width: 53px;
+    margin-right: 20px;
+}
+.clasdiv2 img {
+    width: 70px;
+    height: 70px;
+}
+.span {
+    margin-top: 70px;
+    margin-right: 110px;
+}
+.lorem {
+    display: flex;
+}
+.lorem img {
+    height: 42px;
+    width: 53px;
+    margin-right: 20px;
+}
+.spanbox {
+    display: flex;
+    justify-content: space-between;
+}
+.span2 {
+    margin-top: 70px;
+    margin-right: 110px;
+}
+.span p {
+    font-size: 16px;
+    color: #000000;
+}
+.span2 span {
+    color: #848484;
+}
+.span span {
+    color: #848484;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 191px;
+    background-color: #E1E8F8;
+    width: 100%;
+    border-radius: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 80px;
+    flex-wrap: wrap;
+}
+.footerbox {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 30px;
+    color: #000000;
+}
+.footerbox1 ul {
+    display: flex;
+    justify-content: space-between;
+}
+.footerbox1 li {
+    font-size: 20px;
+    color: #000000;
+}
+.fb img {
+    margin-right: 20px;
+}
+.linkedin img {
+    margin-right: 20px;
+}
+.burgeri{
+    display: none;
+    width: 50px;
+    height: 50px;
+}
+.burgeri img {
+    width: 100%;
+}
+ /* responsive */
+@media ( max-width: 480px) {
+    header nav {
+        display: none;
+    }
+    .burgeri {
+        display: block;
+    }
+    .button2 {
+        font-size: 15px;
+        width: 70px;
+        height: 50px;
+    }
+    .div2 h1 {
+        font-size: 15px;
+    }
+    .div2 p {
+        font-size: 7px;
+        margin-left: 0;
+        }
+    .div2 {
+        top: 25px;
+    }
+    .box {
+        width: 80%;
+        margin-top: 50px;
+        height: 50px;
+}
+    .box2{
+        width: 80px;
+    }
+    .box3{
+        width: 80px;
+    }
+    .boxspan {
+        margin-bottom: 90px;
+    }
+    .footerbox2 {
+        margin-left: 130px;
+        margin-bottom: 10px;
+    }
+    .footerbox {
+        margin-left: 60px;
+        margin-bottom: 10px;
+    }
+    .footerbox1 {
+        margin-bottom: 20px;
+    }
+    .p2 {
+        width: 100%;  
+      }
+      .chamotvla {
+          width: 100%;
+      }
+      .div7, .div8, .div9, .div10 {
+          width: 100%;
+          margin: 0;
+      }
+      .div4, .div5, .div6 {
+          margin-top: 50px;
+          margin-left: 30px;
+      }
+      .div3 {
+          margin-left: 30px;
+      }
+}
+@media ( max-width: 1024px) { 
+    .p2 {
+        margin-left: 250px;
+        
+    }
+}
+
